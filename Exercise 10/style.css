@@ -1,0 +1,123 @@
+#id1{
+    background-color: rgb(255, 102, 0);
+    padding: 10px;
+    text-align: center;
+    width:200px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20%;
+    text-decoration: none;
+    color:black;
+   }
+   #id2{
+    background-color: rgb(228, 42, 166);
+    padding: 10px;
+    text-align: center;
+    width:200px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20%;
+    text-decoration: none;
+    color:black;
+   }
+   #id3{
+    background-color: rgb(58, 218, 194);
+    padding: 10px;
+    text-align: center;
+    width:200px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20%;
+    text-decoration: none;
+    color:white;
+   }
+   .final{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+   }
+   .second{
+    list-style-type: none;
+   }
+   .fi{
+    background-color:rgb(58, 218, 194);
+    width: 190px;
+    height: 25px;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    
+   }
+   .se{
+    background-color:rgb(228, 42, 166);
+    color:black;
+    width: 190px;
+    height: 25px;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    
+   }
+   .th{
+    background-color: rgb(255, 102, 0);
+    color:black;
+    width: 190px;
+    height: 25px;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    
+   }
+   .abc{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    padding: 20px;
+    line-height: 40px;
+    display: inline-block;
+   }
+   .def{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    padding: 20px;
+    line-height: 40px;
+    display: inline-block;
+   } 
+   .ghk{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    padding: 20px;
+    line-height: 40px;
+    display: inline-block;
+    
+   }
+   .class1{
+    margin-right:5px;
+    background: #33333391;
+    
+   }
+   .class2{
+    margin-left: 5px;
+    margin-right: 5px;
+    background: #33333391;
+   }
+   .class3{
+    margin-left: 5px;
+    background: #33333391;
+   }
+   
+   body{
+       width:100%;
+       background-image: image(abc.jpg);
+       background-repeat: no-repeat;
+       background-position:center;
+       background-size:cover;
+   }

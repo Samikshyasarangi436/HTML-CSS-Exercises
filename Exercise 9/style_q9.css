@@ -1,0 +1,36 @@
+.bgDiv {
+    background-color: white;
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    padding: 20px;
+    }
+    
+    .button{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 3px;
+    text-align: center;
+    }
+    
+    .rateDiv {
+    background-color:green;
+    color: white;
+    width: 50px;
+    height: 75px;
+    font-size: 30pt;
+    text-align: center;
+    vertical-align: middle;
+    float: left;
+    padding: 20px;
+    margin: 5px;
+    }
+    
+    .scoreDiv {
+    background-color:white;
+    color: black;
+    width: 50%;
+    float: left;
+    }
